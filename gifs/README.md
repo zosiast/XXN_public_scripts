@@ -11,3 +11,9 @@
 <br />
 
 ![SN_event1_gif](https://github.com/zosiast/XXN_public_scripts/blob/main/gifs/1301.011_looping.gif)
+
+<br />
+<br />
+<br />
+
+![WN_event1_gif](https://github.com/zosiast/XXN_public_scripts/blob/main/gifs/1301.019_looping.gif)
