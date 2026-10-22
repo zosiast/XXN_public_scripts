@@ -10,21 +10,12 @@ ERA5_CESM2_precip_maps.ipynb
 plot_grouped_categorised_events.ipynb
 
 ### Fig 4
-omega500: plot_clusters_omega500.ipynb
-precip: plot_clusters_precip.ipynb
-psl: plot_clusters_pls.ipynb
+omega500: plot_clusters_omega500.ipynb \
+precip: plot_clusters_precip.ipynb \
+psl: plot_clusters_pls.ipynb \
 wind: plot_clusters_wind.ipynb (speed and direction)
 
-### Fig 5
-selected_paper_event_figs.ipynb
-
-### Fig 6
-selected_paper_event_figs.ipynb
-
-### Fig 7
-selected_paper_event_figs.ipynb
-
-### Fig 8
+### Fig 5 - 8
 selected_paper_event_figs.ipynb
 
 ## Supplement
